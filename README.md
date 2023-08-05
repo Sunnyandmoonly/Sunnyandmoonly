@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2 align="center">I'm Sunnyandmoonly</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyandmoonly&hide_progress=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyandmoonly&hide_progress=true&theme=dark"/>
 <!--
 **programmeurmedhedi3/programmeurmedhedi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
