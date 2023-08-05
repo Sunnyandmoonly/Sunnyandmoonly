@@ -3,7 +3,7 @@
 <p align="center">
 I am a minecraft fan and a mod developer 🧩
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyandmoonly&hide_progress=true&theme=dark"/>  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2s6th9SvZd" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyandmoonly&hide_progress=true&theme=dark"/>  
 ⚡ Fun fact: when minecraft was created by Notch , he named the cave game
 <!--
 **programmeurmedhedi3/programmeurmedhedi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
