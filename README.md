@@ -1,5 +1,8 @@
 ### Hi there 👋
 <h2 align="center">I'm <b>Sunnyandmoonly</b></h2>
+<p align="center">
+I am a minecraft fan and a mod developer 🧩
+</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyandmoonly&hide_progress=true&theme=dark"/>
 <!--
 **programmeurmedhedi3/programmeurmedhedi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
