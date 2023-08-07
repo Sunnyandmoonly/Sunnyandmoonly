@@ -3,7 +3,7 @@
 <p align="center">
 I am a minecraft fan and a mod developer 🧩
 </p>
-<img align="right" height="240px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyandmoonly&hide_progress=true&theme=dark"/>
 ⚡ Fun fact: when minecraft was created by Notch , he named the cave game
 <!--
